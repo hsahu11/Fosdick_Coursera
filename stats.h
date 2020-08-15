@@ -25,10 +25,11 @@
 void print_statistics(int a[]);
 void print_array(int a[]);
 int find_median(int a[]);
-float find_mean()(int a[]);
-int find_maximum() (int a[]);
-int find_minimum()(int a[]);
-void sort_array()(int a[]);
+float find_mean(int a[]);
+int find_mode(int a[]);
+int find_maximum (int a[]);
+int find_minimum(int a[]);
+void sort_array(int a[]);
 
 
 /**
