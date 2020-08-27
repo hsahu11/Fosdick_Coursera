@@ -9,12 +9,12 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
+ * @file <stats.c> 
  * @brief <Add Brief Description Here >
  *
  * <Add Extended Description Here>
  *
- * @author <Add Himanshu Sahu>
+ * @author Himanshu Sahu
  * @date <15/08/20>
  *
  */
